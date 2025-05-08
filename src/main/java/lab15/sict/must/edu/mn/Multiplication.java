@@ -5,11 +5,11 @@ package lab15.sict.must.edu.mn;
  */
 public class Multiplication {
     /**
-     * Multiply two numbers.
+     * Multiply two numbers efficiently.
      *
-     * @param a first number
-     * @param b second number
-     * @return product of a and b
+     * @param a first operand
+     * @param b second operand
+     * @return product result
      */
     public double multiply(double a, double b) {
         return a * b;
